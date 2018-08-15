@@ -1,6 +1,7 @@
-# demo
+# element-ui + nuxt + nuxt-i18n
+## This.$message.error('wrong, this is an error message'); after calling the popup, I found that the attributes of the html tag (such as lang="en-US") were deleted?
 
-> Nuxt.js project
+
 
 ## Build Setup
 
@@ -20,3 +21,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+
+g
